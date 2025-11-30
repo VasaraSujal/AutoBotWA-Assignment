@@ -1,6 +1,15 @@
-# TaskFlow - Task Management Landing Page
+# 🚀 TaskFlow - Task Management Landing Page
+
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat&logo=vercel)](https://your-deployment-url.vercel.app)
+[![Next.js](https://img.shields.io/badge/Next.js-16.0.3-black?style=flat&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1.9-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 
 A modern, responsive landing page for TaskFlow - a productivity and task management application built with Next.js and Tailwind CSS.
+
+## 🌐 Live Demo
+
+**🔗 [View Live Application](https://auto-bot-wa-assignment-by-sujal.vercel.app/)**
 
 ## 🌟 Features
 
@@ -118,13 +127,13 @@ All major sections have unique IDs for navigation:
 
 ## 🛠️ Installation & Setup
 
-1. **Clone the repository**
+**Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/VasaraSujal/AutoBotWA-Assignment.git
 cd "AutoBotWA Assignment"
 ```
 
-2. **Install dependencies**
+**Install dependencies**
 ```bash
 npm install
 # or
@@ -133,7 +142,7 @@ pnpm install
 yarn install
 ```
 
-3. **Run the development server**
+**Run the development server**
 ```bash
 npm run dev
 # or
@@ -142,7 +151,7 @@ pnpm dev
 yarn dev
 ```
 
-4. **Open your browser**
+**Open your browser**
 Navigate to [http://localhost:3000](http://localhost:3000) to view the application.
 
 ## 📝 Available Scripts
@@ -192,10 +201,11 @@ Update content in the respective component files:
 
 This project is private and not licensed for public use.
 
-## 👨‍💻 Development
+## 👨‍💻 Author
 
-Built with modern web technologies and best practices for performance, accessibility, and user experience.
+**Sujal Vasara**
+- GitHub: [@VasaraSujal](https://github.com/VasaraSujal)
 
 ---
 
-**Note**: This is a landing page assignment showcasing modern web development practices with Next.js, TypeScript, and Tailwind CSS.
+Made with ❤️ for productivity and task management
